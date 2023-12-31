@@ -1,0 +1,13 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# .pytest_cache
+.pytest_cache/
+
+# Visual Studio Code
+.vscode/
