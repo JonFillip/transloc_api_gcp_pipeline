@@ -49,4 +49,4 @@ Before running the pipeline, ensure you have the following dependencies installe
     --runner DataflowRunner \
     --table_name your-project-id:your-dataset.your-table \
 
-Adjust the parameters according to your project details.
+Adjust the parameters according to your project details.# transloc_api_gcp_etl
