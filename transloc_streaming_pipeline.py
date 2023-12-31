@@ -48,7 +48,7 @@ class FetchVehicleData(beam.DoFn):
             "agencies":"uchicago",
         }
         headers = {
-            "X-RapidAPI-Key": "581e4e5808msh79ec53a6ff47393p1dd5aejsnf75646ad8d5f",
+            "X-RapidAPI-Key": "API_KEYS",
             "X-RapidAPI-Host": "transloc-api-1-2.p.rapidapi.com"
         }
         try:
