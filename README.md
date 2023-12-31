@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transport Data Pipeline
 
 ## Project Description
@@ -50,3 +51,6 @@ Before running the pipeline, ensure you have the following dependencies installe
     --table_name your-project-id:your-dataset.your-table \
 
 Adjust the parameters according to your project details.# transloc_api_gcp_etl
+=======
+# transloc_api_gcp_pipeline
+>>>>>>> ab0382f7db8713cfbf989826fe3f1228c35dfa6b
