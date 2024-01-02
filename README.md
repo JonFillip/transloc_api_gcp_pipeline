@@ -17,7 +17,7 @@ Before running the pipeline, ensure you have the following dependencies installe
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/transport-data-pipeline.git
+   git clone https://github.com/JonFillip/transloc_api_gcp_pipeline.git
    cd transport-data-pipeline
    ```
 2. **Install Dependencies**
