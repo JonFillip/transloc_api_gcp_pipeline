@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Transport Data Pipeline
 
 ## Project Description
@@ -11,7 +10,7 @@ Before running the pipeline, ensure you have the following dependencies installe
 
 - Python 3.x
 - Apache Beam
-- Google Cloud SDK
+- Google Cloud SDK (See installation guide [here](https://cloud.google.com/sdk/docs/install-sdk))
 - Other Python dependencies (install using `pip install -r requirements.txt`)
 
 ## Setup
